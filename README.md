@@ -1,3 +1,3 @@
 # simple
-this is a simple resperatory
+this is a simple repository
 hello
